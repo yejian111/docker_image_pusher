@@ -1,2 +1,2 @@
 gcr.io/cadvisor/cadvisor:v0.52.0 
-zabbix-agent
+zabbix-agent:latest
