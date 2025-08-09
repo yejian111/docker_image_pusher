@@ -1,2 +1,2 @@
-gcr.io/cadvisor/cadvisor:v0.52.0 
-docker pull zabbix/zabbix-agent:sha256-ff7b2e06d001a71bff1840143c86e35e36db645648c3f8621d6302e2c275953d.sig
+registry.k8s.io/ingress-nginx/controller:v1.13.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.0
